@@ -1,2 +1,3 @@
-# classification of anomalies of vertebral column by biomechanical attributes
-using machine learning classification
+# Classification of Anomalies of Vertebral Column by Biomechanical Attributes
+Using Machine Learning Classification
+
